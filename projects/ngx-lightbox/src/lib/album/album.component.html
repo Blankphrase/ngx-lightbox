@@ -1,0 +1,8 @@
+<div class="album" [style.background-color]="moduleOptions.albumOptions.backgroundColor">
+  <img *ngIf="!!album.files && !!album.files.length" class="album__cover"
+       [src]="album.files[0].fileName"
+       [style.width]="moduleOptions.albumOptions.coverImageWidth"
+       [style.maxHeight]="moduleOptions.albumOptions.coverImageMaxHeight"/>
+  <h5 class="album__title"
+      [style.color]="moduleOptions.albumOptions.titleColor">{{album.title}}</h5>
+</div>
