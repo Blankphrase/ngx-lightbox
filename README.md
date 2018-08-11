@@ -1,4 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/@balticcode/ngx-lightbox.svg)](https://www.npmjs.com/package/@balticcode/ngx-lightbox)
+[![npm version](https://img.shields.io/npm/v/@balticcode/ngx-lightbox.svg)](https://www.npmjs.com/package/@balticcode/ngx-lightbox) [![Join the chat at https://gitter.im/balticcode/ngx-lightbox](https://badges.gitter.im/balticcode/ngx-lightbox.svg)](https://gitter.im/balticcode/ngx-lightbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # ngx-lightbox
 
 An Angular module providing a responsive gallery - including separat albums and a lightbox.
